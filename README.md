@@ -3,6 +3,9 @@
 <img src="https://github.com/Munkybooty/Munkybooty/blob/main/files/images/munkybooty.png">
 <br/>
 
+#### Credits
+-  <a href="https://github.com/Munkybooty/Munkybooty/blob/main/files/images/munkybooty.png">Profile graphic</a> by Nyu#9199 (Check her out on <a href="https://www.twitch.tv/nyubert">Twitch</a>)
+
 <!--
 **Munkybooty/Munkybooty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
