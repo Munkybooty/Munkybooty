@@ -3,7 +3,7 @@
 <img src="https://github.com/Munkybooty/Munkybooty/blob/main/files/images/munkybooty.png">
 <br/>
 
-<a href="https://www.linkedin.com/in/hussainraza426/"><img src="https://github.com/Munkybooty/Munkybooty/blob/main/files/logos/linkedin.png" width="48px" height="48px"></a>
+
 <a href="https://twitter.com/Munkybooty"><img src="https://github.com/Munkybooty/Munkybooty/blob/main/files/logos/twitter.png" width="48px" height="48px"></a>
 <a href="https://www.twitch.tv/munkybooty"><img src="https://github.com/Munkybooty/Munkybooty/blob/main/files/logos/twitch.png" width="48px" height="48px"></a>
 #### Credits
