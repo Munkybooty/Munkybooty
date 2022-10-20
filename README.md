@@ -5,8 +5,6 @@
 
 [![munkybooty's GitHub stats](https://github-readme-stats.vercel.app/api?username=munkybooty&theme=dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munkybooty&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <a href="https://twitter.com/Munkybooty"><img src="https://github.com/Munkybooty/Munkybooty/blob/main/files/logos/twitter.png" width="48px" height="48px"></a>
 <a href="https://www.twitch.tv/munkybooty"><img src="https://github.com/Munkybooty/Munkybooty/blob/main/files/logos/twitch.png" width="48px" height="48px"></a>
 #### Credits
