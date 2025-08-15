@@ -1,0 +1,14 @@
+# IDE/editor settings
+.idea/
+.vscode/
+.project
+.classpath
+.settings/
+*.sublime-workspace
+.c9/
+*.launch
+.history/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
