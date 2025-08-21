@@ -45,7 +45,7 @@ I have experience in modernizing legacy enterprise systems, backporting blockcha
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=Munkybooty&theme=ocean_dark">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Munkybooty&card_width=385&theme=ocean_dark">
 </a>
-<br>
+<br><br>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Munkybooty&layout=compact&theme=ocean_dark">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munkybooty&size_weight=0.5&count_weight=0.5&card_width=825&langs_count=8&layout=compact&theme=ocean_dark" />
 </a>
