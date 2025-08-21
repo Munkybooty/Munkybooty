@@ -39,15 +39,15 @@ I have experience in modernizing legacy enterprise systems, backporting blockcha
 ---
 
 ###  GitHub Stats
-<a href="https://github-readme-stats.vercel.app/api?username=Munkybooty&show_icons=true&theme=ocean_dark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Munkybooty&include_all_commits=true&card_width=380&hide=issues&show_icons=true&show=prs_merged_percentage&theme=ocean_dark" />
+<a href="https://github-readme-stats-munky.vercel.app/api?username=Munkybooty&include_all_commits=true&card_width=380&hide=issues&show_icons=true&show=prs_merged_percentage&theme=ocean_dark">
+  <img align="center" src="https://github-readme-stats-munky.vercel.app/api?username=Munkybooty&include_all_commits=true&card_width=380&hide=issues&show_icons=true&show=prs_merged_percentage&theme=ocean_dark" />
 </a>
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=Munkybooty&theme=ocean_dark">
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=Munkybooty&card_width=385&theme=ocean_dark">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Munkybooty&card_width=385&theme=ocean_dark">
 </a>
-<br><br>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Munkybooty&layout=compact&theme=ocean_dark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munkybooty&size_weight=0.5&count_weight=0.5&card_width=825&langs_count=8&layout=compact&theme=ocean_dark" />
+<br>
+<a href="https://github-readme-stats-munky.vercel.app/api/top-langs/?username=Munkybooty&size_weight=0.5&count_weight=0.5&card_width=825&langs_count=20&layout=compact&theme=ocean_dark">
+  <img align="center" src="https://github-readme-stats-munky.vercel.app/api/top-langs/?username=Munkybooty&size_weight=0.5&count_weight=0.5&card_width=825&langs_count=20&layout=compact&theme=ocean_dark" />
 </a>
 
 ---
