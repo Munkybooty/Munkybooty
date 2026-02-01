@@ -56,9 +56,6 @@ I have experience in modernizing legacy enterprise systems, backporting blockcha
 <a href="https://github.com/Munkybooty/Dash">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Munkybooty&repo=Dash&theme=tokyonight" />
 </a>
-<a href="https://github.com/Munkybooty/spring-portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Munkybooty&repo=spring-portfolio&theme=tokyonight" />
-</a>
 <br>
 
 ---
